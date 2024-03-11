@@ -1,0 +1,15 @@
+@import url(styles/header.css);
+@import url(styles/principal.css);
+@import url(styles/servicos.css);
+
+body{ 
+    background-color: black;
+    color: blue;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    /*alinhe o conteúdo do corpo (incluindo a imagem) ao centro */
+    font-family: Arial, sans-serif;
+    font-size: 10px;
+
+}

@@ -1,0 +1,13 @@
+.principal {
+    margin-top: 20px; /*adiciona 20 pixels de espaçamento acima da div */
+    margin-bottom: 20px; /*adiciona 20 pixels de espaçamento acima da div */
+    position: relative; /* de fine a posição relativa para a div  principal */
+}
+
+.landing_text {
+    position: absolute; /*define a posição para o span */
+    top: 50%; /* define o topo do span como 50% da altura da div principal */
+    left: 50%; /* define a esquerda do span como 50% da largura da div prncipal */
+    transform: translate(-50%, -50%); /* move o span para cima e para a esquerda em 50% da div principal */
+    
+}
