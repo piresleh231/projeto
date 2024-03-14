@@ -1,4 +1,4 @@
-.cabecalho {
+.serviços {
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -11,17 +11,17 @@
 
 }
 
- .cabecalho:hover{
+ .serviços:hover{
     border-color: rgb(131, 132, 184);
 
  }
- .cabecalho a {
+ .serviços {
     text-decoration: none;
     color: rgb(156, 168, 221);
     padding: 10px;
 
  }
- .cabecalho a:hover {
+ .serviços a:hover {
     color: white;
     cursor: pointer;
 
